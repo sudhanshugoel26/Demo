@@ -32,7 +32,7 @@ data in ascending order .
 Similarly we have Map and it contains data in Key Value Pair . In the Map we should have unique Keys corresponding to each value and here also
  duplicacy is not allowed and each key can have atmost one value init .
 
-4. Thread
+4. Thread Information
 
 Thread is a class and are used by Java to run different programs concurrently . To do So we need to override the run() method in 
 the class that extends Thread class and In main we execute the Thread by Calling start() method . 
