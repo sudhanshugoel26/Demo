@@ -20,7 +20,7 @@ It is platform independent as different JRE on each platform can make the runtim
                2. if a method is final then we can't override it in the derived class 
                3. If any variable is is final then we can't change it's value as it menas it a const variable 
 
-3. Collection API
+3. Collection API Testing
 
 We have learn List ,ArrayList ,Set and Map in this API 
 
